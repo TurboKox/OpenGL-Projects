@@ -1,4 +1,4 @@
-![images](https://user-images.githubusercontent.com/93782955/195196088-51948678-4323-4cec-98e5-92ed7629ce29.png)
+![image](https://user-images.githubusercontent.com/93782955/195196745-69b811a4-baf3-4969-a609-cbd3f9492723.png)
 
 # OpenGL-Projects
 Simple and advanced OpenGL projects
